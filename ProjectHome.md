@@ -1,0 +1,1 @@
+The goal of the AndroVM project is to provide a full-featured Virtual Machine running in most environments.
